@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarolinaK25
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning computer science and working as a web developper in freelance.
+- 🌱 I’m currently working as a back-end && mobile dev in freelance.
 - 💞️ I’m looking to collaborate on all types of projects ! 
 - 📫 How to reach me... Here or karolinaklak@outlook.fr
 
